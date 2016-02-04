@@ -6,5 +6,4 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - This is what I learned for this week:
  * In logic and proofs, proposition is a statement that is either true or false.
  * Logical deduction is a process of reasoning from one or more statements which reach to a conclusion.
- * Axiom of Equality - a statement that is already accepted.
-   | a+c = b+c |
+ * Axiom of Equality - a statement that is already accepted. |ex: a+c = b+c |
