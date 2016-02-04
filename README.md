@@ -14,5 +14,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
     * Philosophical proof - careful exposition and persuasion
     * **Mathematical truth - what we use in DISMATH**
          * Proposition is a declarative statement.
-            * Example (which was given in our class): "Shun will be successful." ---> we can declare this.
+            * Example (which was given in our class): "Shun will be successful." ← we can declare this.
+ * Logical connectives 
+      | Operator | Symbol | Usage |
+      | -------- | ------ | ----- |
+      | Negation | 
 
