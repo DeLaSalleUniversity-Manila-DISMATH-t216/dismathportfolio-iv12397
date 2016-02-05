@@ -16,9 +16,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
          * Proposition is a declarative statement.
             * Example (which was given in our class): "Shun will be successful." ← we can declare this.
  * Logical connectives 
-      * Negation - "not"
-      * Conjunction - "and"
-      * Disjunction - "or"
-      * Exclusive Or - "x or"
-      * Conditional - "if, then"
-      * Biconditional - "iff"
+      * Negation - "not" (¬)
+      * Conjunction - "and" (∧)
+      * Disjunction - "or" (v)
+      * Exclusive Or - "x or" (⊕)
+      * Conditional - "if, then" (→)
+      * Biconditional - "iff" (↔)
