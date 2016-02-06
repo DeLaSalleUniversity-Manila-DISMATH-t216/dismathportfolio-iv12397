@@ -80,7 +80,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | T | F | F |
 | T | T | T |
 
-## *Week 2:*
+## **Week 2:**
 
 - This week, we learned about proof using logical equivalences
  * Logical Equivalences are compound propositions that have the same truth values in all possible cases.
