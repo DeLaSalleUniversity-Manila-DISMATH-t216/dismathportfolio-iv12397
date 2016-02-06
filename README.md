@@ -100,3 +100,5 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | (p ∧ q) ∧ r ≡  p ∧  (q  ∧  r) |  |
 | p v (q ∧ r) ≡ (p v q) ∧ (p v r)  | Distributive Laws |
 | p ∧ (q v r) ≡ (p ∧ q) v (p ∧  r) |  |
+| ¬(p v q) ≡ ¬p ∧ ¬q | De Morgan's Laws |
+| ¬(p ∧ q) ≡ ¬p v ¬q | |
