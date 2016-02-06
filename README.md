@@ -16,12 +16,15 @@ dismathportfolio-iv12397 created by Classroom for GitHub
          * Proposition is a declarative statement.
             * Example (which was given in our class): "Shun will be successful." ← we can declare this.
  * Logical connectives 
-      * Negation - "not" (¬)
-      * Conjunction - "and" (∧)
-      * Disjunction - "or" (v)
-      * Exclusive Or - "x or" (⊕)
-      * Conditional - "if, then" (→)
-      * Biconditional - "iff" (↔)
+ 
+| Operator | Symbol | Usage |
+| Negation | ¬ | not |
+| Conjunction | ∧ | and |
+| Disjunction | v | or |
+| Exclusive Or | ⊕ | x or |
+| Conditional | → | if, then. |
+| Biconditional | ↔ | iff |
+
 * Propositional Variables 
 	* Ex: p and q
 * Truth Table lists all the possible combination of the input with their corresponding output.
