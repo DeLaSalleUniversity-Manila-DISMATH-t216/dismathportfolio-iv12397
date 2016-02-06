@@ -22,3 +22,17 @@ dismathportfolio-iv12397 created by Classroom for GitHub
       * Exclusive Or - "x or" (⊕)
       * Conditional - "if, then" (→)
       * Biconditional - "iff" (↔)
+* Propositional Variables 
+	* Ex: p and q
+* Truth Table lists all the possible combination of the input withtheir corresponding output.
+  | Input (q) | Output (q) |
+  | --------- | ---------- |
+  |     T     |     F      |
+  |   "---"   |   "---"    |
+  |     F     |     T      |
+  |   "---"   |   "---"    |
+* Conjunction (p and q) - iff p and q are true.
+  | p | q | p ∧ q |
+  | - | - | ------ |
+  | F | F |    F   |
+  | F | T |    F   |
