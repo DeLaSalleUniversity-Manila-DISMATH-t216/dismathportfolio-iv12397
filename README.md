@@ -94,3 +94,8 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | Equivalences | Name |
 | :---: | :---: |
 | p (and) T = p |
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
