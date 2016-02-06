@@ -91,3 +91,10 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | p v F ≡ p |  |
 | p v T ≡ T | Domination Laws |
 | p ∧ F ≡ F | |
+| p v p ≡ p | Idempotent Laws |
+| p ∧ p ≡ p | |
+| ¬(¬p) ≡ p | Double Negation Law |
+| p v q ≡ q v p | Commutative Laws |
+| p ∧ q ≡ q ∧ p  |  |
+| (p v q) v r ≡ p v (q v r) | Associative Laws |
+| (p ∧ q) ∧ r ≡  p ∧  (q  ∧  r) |  |
