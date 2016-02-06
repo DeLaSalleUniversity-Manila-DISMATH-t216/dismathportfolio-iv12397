@@ -104,3 +104,5 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | ¬(p ∧ q) ≡ ¬p v ¬q | |
 | p ∧  (q v p) ≡ p | Absorption Laws |
 |  p v  (q  ∧  p) ≡ p | |
+| p v ¬p ≡ T | Negation Laws |
+| p ∧ ¬p ≡ F | |
