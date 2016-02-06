@@ -34,7 +34,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * Conjunction (p ∧ q) - True iff p and q are true.
 
 | p | q | p ∧ q |
-| --- | --- |
+| --- | --- | --- |
 | F | F | F |
 | F | T | F |
 | T | F | F |
@@ -43,7 +43,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * Disjunction (p v q) - False iff p and q are false.
 
 | p | q | p v q |
-| --- | --- |
+| --- | --- | --- |
 | F | F | F |
 | F | T | T |
 | T | F | T |
@@ -52,7 +52,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * Exlusive Or (p ⊕ q) - p or q but not both.
 
 | p | q | p ⊕ q |
-| --- | --- |
+| --- | --- | --- |
 | F | F | F |
 | F | T | T |
 | T | F | T |
@@ -61,7 +61,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * Conditional Statement (p → q) - if p, then q.
 
 | p | q | p → q |
-| --- | --- |
+| --- | --- | --- |
 | F | F | T |
 | F | T | T |
 | T | F | F |
@@ -70,7 +70,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * Biconditional (p ↔ q) - p iff q.
 
 | p | q | p ↔ q |
-| --- | --- |
+| --- | --- | --- |
 | F | F | T |
 | F | T | F |
 | T | F | F |
