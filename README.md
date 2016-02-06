@@ -18,6 +18,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
  * Logical connectives 
  
 | Operator | Symbol | Usage |
+| --- | --- | --- |
 | Negation | ¬ | not |
 | Conjunction | ∧ | and |
 | Disjunction | v | or |
