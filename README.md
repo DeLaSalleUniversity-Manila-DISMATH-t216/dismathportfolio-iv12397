@@ -92,10 +92,6 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - This week, we learned about proof using logical equivalences
  * Logical Equivalences are compound propositions that have the same truth values in all possible cases.
 | Equivalences | Name |
-| :---: | :---: |
-| p (and) T = p |
-
-| Command | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| p ∧ T ≡ p | Identity Laws|
+| p v F ≡ p |  |
