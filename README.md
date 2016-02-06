@@ -25,14 +25,17 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * Propositional Variables 
 	* Ex: p and q
 * Truth Table lists all the possible combination of the input with their corresponding output.
-| Input (q) | Output (?q) |
+
+| Input (q) | Output (¬q) |
 | --------- | ---------- |
 | T | F |
 | :---: | :---: |
 | F | T |
 | :---: | :---: |
-* Conjunction (p and q) - True iff p and q are true.
-| p | q | p and q |
+
+* Conjunction (p ∧ q) - True iff p and q are true.
+
+| p | q | p ∧ q |
 | :---: | :---: | :---: |
 | F | F | F |
 | :---: | :---: | :---: |
@@ -42,8 +45,10 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | :---: | :---: | :---: |
 | T | T | T |
 | :---: | :---: | :---: |
-* Disjunction (p or q) - False iff p and q are false.
-| p | q | p or q |
+
+* Disjunction (p v q) - False iff p and q are false.
+
+| p | q | p v q |
 | :---: | :---: | :---: |
 | F | F | F |
 | :---: | :---: | :---: |
@@ -53,8 +58,10 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | :---: | :---: | :---: |
 | T | T | T |
 | :---: | :---: | :---: |
-* Exlusive Or (p O q) - p or q but not both.
-| p | q | p O q |
+
+* Exlusive Or (p ⊕ q) - p or q but not both.
+
+| p | q | p ⊕ q |
 | :---: | :---: | :---: |
 | F | F | F |
 | :---: | :---: | :---: |
@@ -64,8 +71,10 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | :---: | :---: | :---: |
 | T | T | F |
 | :---: | :---: | :---: |
-* Conditional Statement (p -> q) - if p, then q.
-| p | q | p -> q |
+
+* Conditional Statement (p → q) - if p, then q.
+
+| p | q | p → q |
 | :---: | :---: | :---: |
 | F | F | T |
 | :---: | :---: | :---: |
@@ -75,8 +84,10 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | :---: | :---: | :---: |
 | T | T | T |
 | :---: | :---: | :---: |
-* Biconditional (p <-> q) - p iff q.
-| p | q | p <-> q |
+
+* Biconditional (p ↔ q) - p iff q.
+
+| p | q | p ↔ q |
 | :---: | :---: | :---: |
 | F | F | T |
 | :---: | :---: | :---: |
@@ -91,6 +102,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 - This week, we learned about proof using logical equivalences
  * Logical Equivalences are compound propositions that have the same truth values in all possible cases.
+
 | Equivalences | Name |
 | --- | --- |
 | p ∧ T ≡ p | Identity Laws|
