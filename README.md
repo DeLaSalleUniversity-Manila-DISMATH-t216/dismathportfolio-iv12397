@@ -24,15 +24,73 @@ dismathportfolio-iv12397 created by Classroom for GitHub
       * Biconditional - "iff" (↔)
 * Propositional Variables 
 	* Ex: p and q
-* Truth Table lists all the possible combination of the input withtheir corresponding output.
-  | Input (q) | Output (q) |
-  | --------- | ---------- |
-  |     T     |     F      |
-  |   "---"   |   "---"    |
-  |     F     |     T      |
-  |   "---"   |   "---"    |
-* Conjunction (p and q) - iff p and q are true.
-  | p | q | p ∧ q |
-  | - | - | ------ |
-  | F | F |    F   |
-  | F | T |    F   |
+* Truth Table lists all the possible combination of the input with their corresponding output.
+| Input (q) | Output (?q) |
+| --------- | ---------- |
+| T | F |
+| :---: | :---: |
+| F | T |
+| :---: | :---: |
+* Conjunction (p and q) - True iff p and q are true.
+| p | q | p and q |
+| :---: | :---: | :---: |
+| F | F | F |
+| :---: | :---: | :---: |
+| F | T | F |
+| :---: | :---: | :---: |
+| T | F | F |
+| :---: | :---: | :---: |
+| T | T | T |
+| :---: | :---: | :---: |
+* Disjunction (p or q) - False iff p and q are false.
+| p | q | p or q |
+| :---: | :---: | :---: |
+| F | F | F |
+| :---: | :---: | :---: |
+| F | T | T |
+| :---: | :---: | :---: |
+| T | F | T |
+| :---: | :---: | :---: |
+| T | T | T |
+| :---: | :---: | :---: |
+* Exlusive Or (p O q) - p or q but not both.
+| p | q | p O q |
+| :---: | :---: | :---: |
+| F | F | F |
+| :---: | :---: | :---: |
+| F | T | T |
+| :---: | :---: | :---: |
+| T | F | T |
+| :---: | :---: | :---: |
+| T | T | F |
+| :---: | :---: | :---: |
+* Conditional Statement (p -> q) - if p, then q.
+| p | q | p -> q |
+| :---: | :---: | :---: |
+| F | F | T |
+| :---: | :---: | :---: |
+| F | T | T |
+| :---: | :---: | :---: |
+| T | F | F |
+| :---: | :---: | :---: |
+| T | T | T |
+| :---: | :---: | :---: |
+* Biconditional (p <-> q) - p iff q.
+| p | q | p <-> q |
+| :---: | :---: | :---: |
+| F | F | T |
+| :---: | :---: | :---: |
+| F | T | F |
+| :---: | :---: | :---: |
+| T | F | F |
+| :---: | :---: | :---: |
+| T | T | T |
+| :---: | :---: | :---: |
+
+## *Week 2:*
+
+- This week, we learned about proof using logical equivalences
+ * Logical Equivalences are compound propositions that have the same truth values in all possible cases.
+| Equivalences | Name |
+| :---: | :---: |
+| p (and) T = p |
