@@ -15,7 +15,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
     * **Mathematical truth - what we use in DISMATH**
          * Proposition is a declarative statement.
             * Example (which was given in our class): "Shun will be successful." ← we can declare this.
- * Logical connectives 
+* Logical connectives 
  
 | Operator | Symbol | Usage |
 | --- | --- | --- |
@@ -89,3 +89,5 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | --- | --- |
 | p ∧ T ≡ p | Identity Laws|
 | p v F ≡ p |  |
+| p v T ≡ T | Domination Laws |
+| p ∧ F ≡ F | |
