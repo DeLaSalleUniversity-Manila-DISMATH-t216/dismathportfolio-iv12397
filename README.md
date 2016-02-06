@@ -98,3 +98,5 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | p ∧ q ≡ q ∧ p  |  |
 | (p v q) v r ≡ p v (q v r) | Associative Laws |
 | (p ∧ q) ∧ r ≡  p ∧  (q  ∧  r) |  |
+| p v (q ∧ r) ≡ (p v q) ∧ (p v r)  | Distributive Laws |
+| p ∧ (q v r) ≡ (p ∧ q) v (p ∧  r) |  |
