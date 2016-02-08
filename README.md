@@ -153,3 +153,18 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - We were given some examples for us to understand on how to use the different methods of proving.
 
 ## **Week 4:**
+- We continued doing examples for us to be practiced.
+- After practicing the methods, we were taught about disproving a given statement by giving a counter example.
+- We were introduced to Mathematical Induction.
+  *In Mathematical Induction, 
+   * First step: the basis
+   * Second step: use direct proof
+- We were introduced to summation.
+ * In summation,
+   * First, we were given a solution and we are to look for the correct equation. 
+   * Next, we are to assume and show that it is true.
+   * Warning: Remember to always use the first step in Mathematical Induction.
+- Lastly, we were introduced to Recursive/Inductive Definition and Recursive Algorithm.
+  * If in the basis step, we are to specify the value of function at zero, in recursive, we are to give a definition for finding its value at an integer.
+  * In Recursive Algorithm,
+    * It is only called
