@@ -118,7 +118,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | ∀x P(x) | P(x) is true for every x. | There is an x for which P(x) is false. |
 | ∃x P(x) | The is an x for which P(x) is true. | P(x) is false for every x. |
  
-- Rules of Inference is also introduced to us, and these are some terminologies.
+- Rules of Inference is also introduced to us, and these are some terminologies:
   * Argument - sequence of statements which end with a conclusion.
   * Valid - conclusion must follow the truth of the preceding statements.
   * Fallacy - incorrect reasonings which lead to invalid statements.
