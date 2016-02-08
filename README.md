@@ -1,7 +1,7 @@
 # dismathportfolio-iv12397
 dismathportfolio-iv12397 created by Classroom for GitHub
 
-## **Week 1:**
+## **Week 1:** (01/7, 01/12, 01/14)
 - I learned what was Discrete Mathematics all about, and the first lesson is all about logic and proofs.
  * In logic and proofs, proposition is a statement that is either true or false.
  * Logical deduction is a process of reasoning from one or more statements which reach to a conclusion.
@@ -80,7 +80,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | T | F | F |
 | T | T | T |
 
-## **Week 2:**
+## **Week 2:** (01/19, 01/21)
 
 - This week, we learned about proof using logical equivalences
  * Logical Equivalences are compound propositions that have the same truth values in all possible cases.
@@ -131,7 +131,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 |  [(p→q)∧ ¬q] → ¬p | Modus Tollens |
 | [(p→q)∧ (q→r)] → (p→r) | Hypothetical Syllogism |
 
-## **Week 3:**
+## **Week 3:** (01/26, 01/28)
 - We were taught about methods of proof.
  * Direct Proof
  * Proof by Contrapositive
@@ -152,7 +152,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 - We were given some examples for us to understand on how to use the different methods of proving.
 
-## **Week 4:**
+## **Week 4:** (02/02, 02/04)
 - We continued doing examples for us to be practiced.
 - After practicing the methods, we were taught about disproving a given statement by giving a counter example.
 - We were introduced to Mathematical Induction.
@@ -167,4 +167,6 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - Lastly, we were introduced to Recursive/Inductive Definition and Recursive Algorithm.
   * If in the basis step, we are to specify the value of function at zero, in recursive, we are to give a definition for finding its value at an integer.
   * In Recursive Algorithm,
-    * It is only called
+    * It is only called recursive if it solves a problem by reducing it to an instance of the same problem with smaller input such as "n!"
+  
+## **Week 5:** (02/09, 02/11)
