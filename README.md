@@ -130,3 +130,26 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 |  [(p→q)∧ p] → q | Modus Ponens |
 |  [(p→q)∧ ¬q] → ¬p | Modus Tollens |
 | [(p→q)∧ (q→r)] → (p→r) | Hypothetical Syllogism |
+
+## **Week 3:**
+- We were taught about methods of proof.
+ * Direct Proof
+ * Proof by Contrapositive
+ * Vacuous and Trivial Proof
+ * Proof by Contradiction
+ * Proof by Equivalences
+
+1. Direct Proof 
+  1. Assume p is true
+  2. Show that q is also true
+2. Proof by Contrapositive
+  1. Assume ¬q is true
+  2. Show that ¬p is true
+3. Vacuous Proof
+  1. Show that p is false since p→q is true
+4. Trivial Proof
+  1. Show that q is true then p→q must be true
+
+- We were given some examples for us to understand on how to use the different methods of proving.
+
+## **Week 4:**
