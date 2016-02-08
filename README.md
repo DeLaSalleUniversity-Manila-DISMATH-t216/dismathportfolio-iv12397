@@ -129,3 +129,4 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | :---: | :---: |
 |  [(p→q)∧ p] → q | Modus Ponens |
 |  [(p→q)∧ ¬q] → ¬p | Modus Tollens |
+| [(p→q)∧ (q→r)] → (p→r) | Hypothetical Syllogism |
