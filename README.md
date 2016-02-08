@@ -123,3 +123,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
   * Valid - conclusion must follow the truth of the preceding statements.
   * Fallacy - incorrect reasonings which lead to invalid statements.
   * Tautology - statement that is always true.
+  * These are some rules of interference:
+
+| Tautology | Name |
+| :---: | :---: |
+|  [(p→q)∧ p] → q | Modus Ponens |
+|  [(p→q)∧ ¬q] → ¬p | Modus Tollens |
