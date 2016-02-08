@@ -106,3 +106,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 |  p v  (q  ∧  p) ≡ p | |
 | p v ¬p ≡ T | Negation Laws |
 | p ∧ ¬p ≡ F | |
+
+ * I also learned about the superman problem by proving he does not exist.
+- Also, this week, we were taught about the quantifiers
+ * Existential Quantifier (∃x) - "there exist"
+ * Universal Quantifier (∀x) - "for all"
+
+|
+ 
