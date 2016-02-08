@@ -108,9 +108,13 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 | p ∧ ¬p ≡ F | |
 
  * I also learned about the superman problem by proving he does not exist.
+
 - Also, this week, we were taught about the quantifiers
  * Existential Quantifier (∃x) - "there exist"
  * Universal Quantifier (∀x) - "for all"
 
-|
+| | When True? | When False? |
+| :---: | :---: | :---: |
+| ∀x P(x) | P(x) is true for every x. | There is an x for which P(x) is false. |
+| ∃x P(x) | The is an x for which P(x) is true. | P(x) is false for every x. |
  
