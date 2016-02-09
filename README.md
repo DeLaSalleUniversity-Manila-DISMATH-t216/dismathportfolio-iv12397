@@ -169,5 +169,5 @@ dismathportfolio-iv12397 created by Classroom for GitHub
   * In Recursive Algorithm,
     * It is only called recursive if it solves a problem by reducing it to an instance of the same problem with smaller input such as "n!"
    
-* "A smile can change a life." *
-		- Irene Victoria L. Or, DISMATH EL
+- **_"A smile can change a life."_**
+		- *Irene Victoria L. Or*, **DISMATH EL**
