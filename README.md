@@ -176,17 +176,18 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 			 - In short, it is used to solve a problem.
 	* Example writing a program of a recursive algorithm of n!
 	
-		factorial (k: non-negative integer)
+			factorial (k: non-negative integer)
 
-		{ if (k==0)
+			{ if (k==0)
 	
-		return 1;
+			return 1;
 	
-		else
+			else
 	
-		return k*factorial (k-1); }
+			return k*factorial (k-1); }
 
 	* If we entered the factorial (4), the program can't read "factorial" so it will go back to the definition which meant it will call itself until it reaches the basis. In this case, it will call itself until it reaches 0 to get an answer of 1. Next, 1 will collapse to the processes it went through until it goes back to the caller. 
+	* In conclusion, the bigger the number, the slower the program will be because it will call itself until the basis then it will go back to the processes to go back to the caller.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
