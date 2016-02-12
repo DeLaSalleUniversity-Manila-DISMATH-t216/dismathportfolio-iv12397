@@ -177,11 +177,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Example writing a program of a recursive algorithm of n!
 	
 	factorial (k: non-negative integer)
+
 	{ if (k==0)
+	
 	return 1;
+	
 	else
+	
 	return k*factorial (k-1); }
 
+	* If we entered the factorial (4), the program can't read "factorial" so it will go back to the definition which meant it will call itself.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
