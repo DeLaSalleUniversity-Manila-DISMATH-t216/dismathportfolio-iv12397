@@ -196,8 +196,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Partial Correctness
 		* Initial Assertion, p, gives the properties that the input values must have.
 		* Final Assertion, q, the output.
-	* Hoare Triple: p{S}q
-		* where S is the program segment.
+	* Hoare Triple: p{S}q where S is the program segment.
+		1. Assume p ≡ T
+		2. Substitute p to S, then show q ≡ T
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
