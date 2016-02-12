@@ -316,7 +316,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - Lastly, we discussed the _Cardinality_ .
 	* It is the number of elements in a set.
 	* If S is a set, we denote |S|.
-		* |
-
+		* | {a,b,c,d,e} | = 5
+		* | {a, b}, {c,d,e}, {f,g,h} | = 3
+	* Cardinality of N
+		* infinitely many natural numbers
+		* alephnought of N = |N|
+		
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
