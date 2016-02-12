@@ -200,12 +200,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		1. Assume p ≡ T
 		2. Substitute p to S, then show q ≡ T
 - How can we prove a compound program?
-	* Use the rules of inference
+	* Use the rules of inference (Composition Rule)
 	
-		p{S1}q
+			p{S1}q
 
-		q{S2}r
+			q{S2}r
 		
-		∴ p{S1:S2}r
+			∴ p{S1:S2}r
+
+- How to prove if the conditional statement is correct?
+	1. Conditional Statements
+	2. If else Statements
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
