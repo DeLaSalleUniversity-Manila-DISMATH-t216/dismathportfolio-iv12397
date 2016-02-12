@@ -249,6 +249,12 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	
 				|r|<1 (diverge)
 				
-
+	* The power series is symbolized:
+	
+				∞
+				∑ Anx^n
+				n=0
+			
+			* Think of it as a function of x that is defined convergence.
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
