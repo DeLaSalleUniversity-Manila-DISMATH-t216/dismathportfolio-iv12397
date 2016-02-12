@@ -171,9 +171,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
    
 ## **Week 5:**
 - We continued the class discussion on recursive algorithm.
- * Recursive Algorithms
-  * Algorithm is a finite set of precise instructions for performing a computation or solving a problem.
-   - In short, it is used to solve a problem.
+ 	* Recursive Algorithms
+  		* Algorithm is a finite set of precise instructions for performing a computation or solving a problem.
+			 - In short, it is used to solve a problem.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
