@@ -188,6 +188,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 	* If we entered the factorial (4), the program can't read "factorial" so it will go back to the definition which meant it will call itself until it reaches the basis. In this case, it will call itself until it reaches 0 to get an answer of 1. Next, 1 will collapse to the processes it went through until it goes back to the caller. 
 	* In conclusion, the bigger the number, the slower the program will be because it will call itself until the basis then it will go back to the processes to go back to the caller.
+- The next discussion were _Program Correctness, Partial Correctness and Hoare Triple_ .
+	* Program Correctness 
+		* Program Verification - put input and see if it gives the correct output.
+			1. Show the correct answer is obtained. (if the program terminates, it is partial correctness)
+			2. Show that the program always terminates.
+	* Partial Correctness
+		* Initial Assertion, p, gives the properties that the input values must have.
+		* Final Assertion, q, the output.
+	* Hoare Triple: p{S}q
+		* where S is the program segment.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
