@@ -175,11 +175,12 @@ dismathportfolio-iv12397 created by Classroom for GitHub
   		* Algorithm is a finite set of precise instructions for performing a computation or solving a problem.
 			 - In short, it is used to solve a problem.
 	* Example writing a program of a recursive algorithm of n!
-		factorial (k: non-negative integer)
-		{ if (k==0)
-		return 1;
-		else
-		return k*factorial (k-1); }
+	
+	factorial (k: non-negative integer)
+	{ if (k==0)
+	return 1;
+	else
+	return k*factorial (k-1); }
 
 
 - **_"A smile can change a life."_**
