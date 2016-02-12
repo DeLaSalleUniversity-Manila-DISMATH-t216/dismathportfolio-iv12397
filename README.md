@@ -256,5 +256,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 				n=0
 			
 			* Think of it as a function of x that is defined convergence.
+
+- Next, we were introduced to set theory.
+	* Set 
+		* Not in ordered collection of distinct objects
+		* (set is organized in '{}')
+	* Empty Set 
+	
+		{} = ∅ 
+		
+		* The first one contains no element.
+		* The ∅  means empty set.
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
