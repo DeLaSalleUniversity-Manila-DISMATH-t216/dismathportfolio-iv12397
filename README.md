@@ -252,7 +252,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* The power series is symbolized:
 	
 				∞
-				∑ Anx^n
+				∑ Anx^n = 1 + x + x^2 + x^3 +... 
 				n=0
 			
 			* Think of it as a function of x that is defined convergence.
