@@ -157,8 +157,8 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - After practicing the methods, we were taught about disproving a given statement by giving a counter example.
 - We were introduced to Mathematical Induction.
   * In Mathematical Induction, 
-   * First step: the basis
-   * Second step: use direct proof
+	 * First step: the basis
+	 * Second step: use direct proof
 - We were introduced to summation.
  * In summation,
    * First, we were given a solution and we are to look for the correct equation. 
