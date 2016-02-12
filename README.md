@@ -284,14 +284,15 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		
 	* Set Identtities
 	
-| Identities | Name |
-| :---: | :---: |
-| A ∩ U ≡ A | Identity Laws|
-| A ∪ ∅ ≡ p |  |
-| A ∪ U ≡ U | Domination Laws |
-| A ∩ ∅ ≡ ∅ | |
-| A ∪ A ≡ A| Idempotent Laws |
-| A ∩ A ≡ A | |
+		| Identities | Name |
+		| :---: | :---: |
+		| A ∩ U ≡ A | Identity Laws|
+		| A ∪ ∅ ≡ p |  |
+		| A ∪ U ≡ U | Domination Laws |
+		| A ∩ ∅ ≡ ∅ | |
+		| A ∪ A ≡ A| Idempotent Laws |
+		| A ∩ A ≡ A | |
+	
 		* It is the same as the logical equivalences but just change F to ∅, T to U, p to A, q to B, ∧to ∩ and  ∨ to ∪ .
 		
 - **_"A smile can change a life."_**
