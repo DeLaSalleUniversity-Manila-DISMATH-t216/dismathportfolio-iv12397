@@ -309,5 +309,14 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		
 		* read as set of subset
 	
+	* Superset
+	
+			A ⊇ B
+		
+- Lastly, we discussed the _Cardinality_ .
+	* It is the number of elements in a set.
+	* If S is a set, we denote |S|.
+		* |
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
