@@ -215,10 +215,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 			(p∧¬condition)→q
 			
-			∴p{if condition then S}q
+			∴p{if condition then S} → q
 			
 	2. If else Statements
 
+			(p∧condition){S1}q
+			
+			(p∧¬condition){S2}q
+			
+			∴p{if condition then S1 else S2}q
+			
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
