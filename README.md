@@ -320,7 +320,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* | {a, b}, {c,d,e}, {f,g,h} | = 3
 	* Cardinality of N
 		* infinitely many natural numbers
-		* alephnought of N = |N|
+		* alephnought of N = |N| = infinitely large
 		
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
