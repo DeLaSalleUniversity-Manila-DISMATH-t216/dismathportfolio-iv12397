@@ -307,7 +307,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 			p(S) = {T| T ⊆ S }
 		
-		* set of subset
+		* read as set of subset
 	
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
