@@ -225,6 +225,30 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 			
 			∴p{if condition then S1 else S2}q
 			
+- Next, we discussed about the _representation of functions as Power Series_ .
+	* Infinite Series: Zeno's Paradox
+		* For example, 
+			
+			First, cover the half distance
+
+			Then cover the half of the half distance
+			
+			Then cover the half of the half of the half distance
+			
+			And so on.....
+			
+	* The Power Series is:
+		
+			1/2 + 1/4 + 1/8 +....
+		
+		* For algebra, this is a geometric series
+				
+				where: 
+
+				|r|>1 (converge)
+	
+				|r|<1 (diverge)
+				
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
