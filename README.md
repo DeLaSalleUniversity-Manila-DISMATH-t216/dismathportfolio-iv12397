@@ -156,7 +156,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - We continued doing examples for us to be practiced.
 - After practicing the methods, we were taught about disproving a given statement by giving a counter example.
 - We were introduced to Mathematical Induction.
-  *In Mathematical Induction, 
+  * In Mathematical Induction, 
    * First step: the basis
    * Second step: use direct proof
 - We were introduced to summation.
@@ -169,5 +169,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
   * In Recursive Algorithm,
     * It is only called recursive if it solves a problem by reducing it to an instance of the same problem with smaller input such as "n!"
    
+## **Week 5:**
+- We continued the class discussion on recursive algorithm.
+ * Recursive Algorithms
+  * Algorithm is a finite set of precise instructions for performing a computation or solving a problem.
+   - In short, it is used to solve a problem.
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
