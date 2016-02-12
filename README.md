@@ -305,7 +305,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 			
 	* Power Set 
 
-			p(S) = {T| T ⊆ S }
+			℘(S) = {T| T ⊆ S }
 		
 		* read as set of subset
 	
