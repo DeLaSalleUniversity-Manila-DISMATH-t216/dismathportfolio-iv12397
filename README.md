@@ -260,12 +260,24 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 - Next, we were introduced to set theory.
 	* Set 
 		* Not in ordered collection of distinct objects
-		* (set is organized in '{}')
+		* (set is organized in '{ }')
 	* Empty Set 
 	
-		{} = ∅ 
+			{ } = ∅ 
 		
 		* The first one contains no element.
 		* The ∅  means empty set.
+		
+	* Membership - shows if an object is belonged to the set.
+	* Set-builder notation
+	
+			{ x| some property of x satisfies }
+			
+		* Example:
+		
+			{ n| n∈N and n is even }
+			
+	* Venn Diagrams
+	
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
