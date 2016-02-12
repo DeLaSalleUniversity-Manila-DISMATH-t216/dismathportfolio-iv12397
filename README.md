@@ -295,5 +295,19 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	
 		* It is the same as the logical equivalences but just change F to ∅, T to U, p to A, q to B, ∧to ∩ and  ∨ to ∪ .
 		
+	* Subsets
+		
+			S ⊆ T (S is a subset of T)
+		
+		* Example
+		
+			{1,2,3} ⊆ { 1, 2, 3, 4}
+			
+	* Power Set 
+
+			p(S) = {T| T ⊆ S }
+		
+		* set of subset
+	
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
