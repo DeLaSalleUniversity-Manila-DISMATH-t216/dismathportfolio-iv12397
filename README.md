@@ -199,6 +199,13 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Hoare Triple: p{S}q where S is the program segment.
 		1. Assume p ≡ T
 		2. Substitute p to S, then show q ≡ T
+- How can we prove a compound program?
+	* Use the rules of inference
+	
+		p{S1}q
 
+		q{S2}r
+		
+		∴ p{S1:S2}r
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
