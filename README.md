@@ -210,6 +210,15 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 - How to prove if the conditional statement is correct?
 	1. Conditional Statements
+		
+			(p∧condition){S}q
+
+			(p∧¬condition)→q
+			
+			∴p{if condition then S}q
+			
 	2. If else Statements
+
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
