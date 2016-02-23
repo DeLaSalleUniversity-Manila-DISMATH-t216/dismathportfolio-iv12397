@@ -323,6 +323,15 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* alephnought of N = |N| = infinitely large
 		
 ## **Week 6:**
-
+- During this week, we reviewed and prepared for the first quiz on friday, Feb 19, 2016.
+	* Nested Quantifiers were reviewed to us:
+		* The choices of x, some y, P(x,y) is true.
+		
+			∀x∃yP(x,y)
+			
+		* Some x, choices of y, P(x,y) is true.
+		
+			∃x∀yP(x,y)
+- After reviewing, 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
