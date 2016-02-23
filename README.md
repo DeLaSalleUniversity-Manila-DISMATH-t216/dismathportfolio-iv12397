@@ -327,11 +327,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Nested Quantifiers were reviewed to us:
 		* The choices of x, some y, P(x,y) is true.
 		
-			∀x∃yP(x,y)
+				∀x∃yP(x,y)
 		
 		* Some x, choices of y, P(x,y) is true.
 		
-			∃x∀yP(x,y)
+				∃x∀yP(x,y)
 		
 	* Nagating Statements
 		* Example: Negate the statement: Everyone loves someone.
@@ -342,6 +342,8 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Proof by exhaustion
 	* Existence Proofs
 	* Uniqueness Proof
-- After reviewing, 
+	
+- After reviewing, we were introduced to DISMATH Application
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
