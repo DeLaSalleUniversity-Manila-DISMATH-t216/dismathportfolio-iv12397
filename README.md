@@ -345,6 +345,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	
 - After reviewing, we were introduced to DISMATH Application.
 	* First, we discussed about the functions.
+	* f(a) = b means b is is the image of a. 
+	
+				f: A => B
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
