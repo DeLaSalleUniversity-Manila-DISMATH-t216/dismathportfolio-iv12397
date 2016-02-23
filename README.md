@@ -359,6 +359,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 				{a,b,c,d} to {1,2,3}
 				f(a)=3 , f(b)=2 , f(c)=1 , f(d)=3
+				f: A => B = {(a,3),(b,2),(c,1),(d,3)}
 				
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
