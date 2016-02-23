@@ -322,5 +322,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* infinitely many natural numbers
 		* alephnought of N = |N| = infinitely large
 		
+## **Week 6:**
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
