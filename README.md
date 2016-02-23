@@ -343,7 +343,8 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Existence Proofs
 	* Uniqueness Proof
 	
-- After reviewing, we were introduced to DISMATH Application
+- After reviewing, we were introduced to DISMATH Application.
+	* First, we discussed about the functions.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
