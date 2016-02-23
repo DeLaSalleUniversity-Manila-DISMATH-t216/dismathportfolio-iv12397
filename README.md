@@ -352,7 +352,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* One to one function (Injective)
 		
 				{a,b,c,d} to {1,2,3,4,5}
-				
+				f(a)=5 , f(b)=3 , f(c)=4 , f(d)=1
+				∀x∀y(f(x)=f(y) → x=y)
+
 	* Onto function (Surjective)
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
