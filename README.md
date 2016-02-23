@@ -366,7 +366,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* one to many
 
 ## **Week 7:**
-* Although there is no DISMATH for this week due to a Friday exam last week, so we were given time for **PROJECT 0-0**
+* Although there is no DISMATH for this week due to a Friday exam last week, so we were given time for **PROJECT 0-0**.
+	* This project was entitled: **HelloWorldApp**
+	* The minimum requirements are:
+		* A button I am (First name, surname) of DISMATH (section).
+		* A space in between the next button.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
