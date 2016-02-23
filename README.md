@@ -348,6 +348,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* f(a) = b means b is is the image of a. 
 	
 				f: A => B
-
+	
+	* One to one function (Injective)
+		
+				{a,b,c,d} to {1,2,3,4,5}
+				
+	* Onto function (Surjective)
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
