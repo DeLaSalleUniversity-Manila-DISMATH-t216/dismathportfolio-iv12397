@@ -328,15 +328,20 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* The choices of x, some y, P(x,y) is true.
 		
 			∀x∃yP(x,y)
-			
+		
 		* Some x, choices of y, P(x,y) is true.
 		
 			∃x∀yP(x,y)
-			
+		
 	* Nagating Statements
 		* Example: Negate the statement: Everyone loves someone.
 		
 				∀x∃yPoves(x,y)  into  ∃x∀y¬Loves(x,y)
+	
+	* Proof by cases
+	* Proof by exhaustion
+	* Existence Proofs
+	* Uniqueness Proof
 - After reviewing, 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
