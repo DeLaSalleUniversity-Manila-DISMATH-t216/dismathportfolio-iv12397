@@ -323,7 +323,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* alephnought of N = |N| = infinitely large
 		
 ## **Week 6:**
-- During this week, we reviewed and prepared for the first quiz on friday, Feb 19, 2016.
+- During this week, we reviewed and prepared for the first quiz on Friday, Feb 19, 2016.
 	* Nested Quantifiers were reviewed to us:
 		* The choices of x, some y, P(x,y) is true.
 		
@@ -366,5 +366,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* one to many
 
 ## **Week 7:**
+* Although there is no DISMATH for this week due to a Friday exam last week, so we were given time for **PROJECT 0-0**
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
