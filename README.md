@@ -355,12 +355,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 				f(a)=5 , f(b)=3 , f(c)=4 , f(d)=1
 				**∀x∀y(f(x)=f(y) → x=y)**
 
-	* Onto function (Surjective) - functions have equal range and codomain.
+	* Onto function (Surjective) - functions have equal range and codomain. (all set of numbers should be assigned)
 
 				{a,b,c,d} to {1,2,3}
 				f(a)=3 , f(b)=2 , f(c)=1 , f(d)=3
 				**f: A => B = {(a,3),(b,2),(c,1),(d,3)}**
 				
-	* 
+	* Bijective is one to one function and onto function
+	* Not a function
+		* one to many
+
+## **Week 7:**
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
