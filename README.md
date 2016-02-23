@@ -371,6 +371,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* The minimum requirements are:
 		* A button I am (First name, surname) of DISMATH (section).
 		* A space in between the next button.
+		* The next button is the talk button about the text from the above.
+	* The **deadline** will be on **March 1**.
+	* Lastly, this is an **individual** work.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
