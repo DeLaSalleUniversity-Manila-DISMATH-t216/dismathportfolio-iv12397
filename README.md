@@ -384,7 +384,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		2. **Compare** the next integer in the sequence to the temporary max.
 		3. **Repeat the previous set** if there are more integers in the sequence.
 		4. **Stop** when there are no integers left in the sequence.
+	* Example:
 	
+		Precondition: {2,5,8,1,10,12,3}
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
