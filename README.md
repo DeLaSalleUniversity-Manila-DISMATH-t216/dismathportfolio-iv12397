@@ -376,7 +376,15 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Lastly, this is an **individual** work.
 	
 ## **Week 8:**
-
+* We were introduced to Algorithm.
+	* Algorithm 
+		* a set of finite set of precise instruction for performing a computation.
+	* Finding the **Maximum Element Algorithm**
+		1. **Set** the temporary maximum equal to the first integer in the sequence.
+		2. **Compare** the next integer in the sequence to the temporary max.
+		3. **Repeat the previous set** if there are more integers in the sequence.
+		4. **Stop** when there are no integers left in the sequence.
+	
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
