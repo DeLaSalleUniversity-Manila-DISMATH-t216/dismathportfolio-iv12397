@@ -374,6 +374,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* The next button is the talk button about the text from the above.
 	* The **deadline** will be on **March 1**.
 	* Lastly, this is an **individual** work.
+	
+## **Week 8:**
+
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
