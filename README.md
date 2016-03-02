@@ -386,7 +386,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		4. **Stop** when there are no integers left in the sequence.
 	* Example:
 	
-		Precondition: {2,5,8,1,10,12,3}
+		Precondition: {2,5,8,1,10,12,3} 
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
