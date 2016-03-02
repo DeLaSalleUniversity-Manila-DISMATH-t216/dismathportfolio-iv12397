@@ -398,6 +398,14 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* It is a human readable code.
 	* Example
 	
-
+			Linear Search
+			
+			Input: S={A1,A2,...,An} A1 ∈ Z; x ∈ Z
+			Output: index, loc where Aloc=x
+			loc=-1
+			for i; 1 to n
+				if(Ai==x)
+					loc=i;
+			final assertion: loc is the location of element
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
