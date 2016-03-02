@@ -388,11 +388,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	
 			Precondition: {2,5,8,1,10,12,3} ∈ Z, finite
 			Postcondition: max= maximum(A1,A2,A3,...,An)
-			using for-loop
+			using for-loop (Pseudocode)
 			for i=2 to n
 				if(max<Ai)
 					max=Ai
 
+	* Pseodocode
+		* high level description of an algorithm that uses the structural conventions of a programming language, but intended for human reading.
+		* It is a human readable code.
+	* Example
+	
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
