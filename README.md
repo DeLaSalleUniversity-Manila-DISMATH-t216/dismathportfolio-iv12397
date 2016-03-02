@@ -386,9 +386,12 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		4. **Stop** when there are no integers left in the sequence.
 	* Example:
 	
-		Precondition: {2,5,8,1,10,12,3} ∈ Z, finite
-		Postcondition: max= maximum(A1,A2,A3,...,An)
-		using for-loop
+			Precondition: {2,5,8,1,10,12,3} ∈ Z, finite
+			Postcondition: max= maximum(A1,A2,A3,...,An)
+			using for-loop
+			for i=2 to n
+				if(max<Ai)
+					max=Ai
 
 
 - **_"A smile can change a life."_**
