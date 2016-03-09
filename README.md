@@ -396,7 +396,8 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Pseodocode
 		* high level description of an algorithm that uses the structural conventions of a programming language, but intended for human reading.
 		* It is a human readable code.
-	* Example
+	* Example of Algorithms
+	* Algorithm 1:
 	
 			Linear Search
 			
@@ -407,5 +408,21 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 				if(Ai==x)
 					loc=i;
 			final assertion: loc is the location of element
+
+	* Algorithm 2:
+
+			Binary Search
+			
+			Input: {A1,A2,...An:distinct integers}
+			i=1 (i is the left endpoint of the search interval)
+			j=n (j is the right endpoint of the search interval)
+			while i<j
+				mid = [(i+j)/2]
+				if x>A(mid) then i=mid+1
+				else j=mid
+			if x=Ai then location=i
+			else location=-1
+			return location 
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
