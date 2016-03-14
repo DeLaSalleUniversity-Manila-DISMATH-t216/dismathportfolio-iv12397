@@ -425,5 +425,39 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 			return location 
 
 ## **Week 9:**
+* The continuation of the lesson, Algorithm:
+	* Algorithm 3:
+	
+			Bubble Sort
+			
+			Input: {A1,A2,.....,Ai,....An} ∈ all real numbers, n>=2
+			Output: {X1,X2,....,Xi,...,Xn} where X1<X2<.....<Xn
+			for j=1 to n-1
+				for i=1 to n-j
+					if(Ai>A(i+1))
+					swap(Ai,A(i+1))
+
+	* Algorithm 4:
+	
+			Insertion Sort
+			
+			Input:{A1,A2,.....,Ai,....An} ∈ n>=2
+			for j=2 to n
+			{
+				i=1
+				while Aj>Ai
+					i=i+1
+				m=Aj
+				for k=0 to j-i-1
+					A(j-k)=A(j-i-1)
+				Ai=m
+			}
+			Output: {X1,X2,X3,....,Xn:increasing order}
+
+	* Outer for-loop is responsible of the sorting.
+	* Inner for-loop is responsible for swapping.
+
+## **Week 10:**
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
