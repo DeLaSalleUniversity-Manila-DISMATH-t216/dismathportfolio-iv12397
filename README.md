@@ -454,8 +454,23 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 			}
 			Output: {X1,X2,X3,....,Xn:increasing order}
 
-	* Outer for-loop is responsible of the sorting.
-	* Inner for-loop is responsible for swapping.
+		* Outer for-loop is responsible of the sorting.
+		* Inner for-loop is responsible for swapping.
+
+	* Algorithm 5:
+	
+			Greedy Algorithm
+			- selects the best choice at each step, instead of considering all sequences of steps that may lead to an optional solution.
+			- applied in optimization problems where a solution to the given problem either minimizes or maximizes the value of some parameter.
+			
+			Denomination 
+				C={25,10,5,1}
+				x=amount of memory
+			for i=1 to r
+				x=0
+			while (x>=Ci)
+				x=x-Ci
+				n=n+1
 
 ## **Week 10:**
 
