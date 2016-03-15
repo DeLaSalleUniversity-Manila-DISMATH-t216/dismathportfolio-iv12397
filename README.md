@@ -475,12 +475,15 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 ## **Week 10:**
 * This week, we were introduced to growth of functions.
 	* Using Big-O, Big-Ω and Big-ϴ
+	* In Big-O, we are looking for the upper bound size of f(x).
 	* In Big-O, let f and G be functions from Real numbers to Real numbers where f(x) is O(g(x)) if there are constants C and k such that:
 	
 			|f(x)| ≤ C|g(x)| where x > k
 			C and k are the witnesses of Big-O
 
-
+	* Same as in Big-Ω, but in this function, we are looking for the lower bound of f(x).
+	* Lastly, in Big-ϴ, we are looking for both the lower and upper bound size of f(x).
+	
 	
 
 
