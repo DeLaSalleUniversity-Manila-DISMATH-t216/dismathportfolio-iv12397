@@ -481,7 +481,19 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 			|f(x)| ≤ C|g(x)| where x > k
 			C and k are the witnesses of Big-O
 
+		* Example:
+			
+			x^2 + 2x + 1 is O(x^2) 
+			x^2 + 2x + 1 is O(x^3)
+			x^2 + 2x + 1 is O(x^4)
+
 	* Same as in Big-Ω, but in this function, we are looking for the lower bound of f(x).
+	
+		* Example:
+		
+			x^2 + 2x + 1 is O(x^2)
+			x^2 + 2x + 1 is O(x)
+
 	* Lastly, in Big-ϴ, we are looking for both the lower and upper bound size of f(x).
 	
 	
