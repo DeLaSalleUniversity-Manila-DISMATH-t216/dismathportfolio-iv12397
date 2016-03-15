@@ -468,11 +468,14 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 				x=amount of memory
 			for i=1 to r
 				x=0
-			while (x>=Ci)
+			while (x≥Ci)
 				x=x-Ci
 				n=n+1
 
 ## **Week 10:**
+* This week, we were introduced to growth of functions.
+1. Using Big-O, Big-Ω and Big-
+
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
