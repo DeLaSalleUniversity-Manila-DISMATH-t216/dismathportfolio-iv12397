@@ -475,9 +475,9 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 ## **Week 10:**
 * This week, we were introduced to growth of functions.
 	* Using Big-O, Big-Ω and Big-ϴ
-	* Let f and G be functions from Real numbers to Real numbers where f(x) is O(g(x)) if there are constants C and k such that:
+	* In Big-O, let f and G be functions from Real numbers to Real numbers where f(x) is O(g(x)) if there are constants C and k such that:
 	
-			|f(x)|
+			|f(x)| ≤ C|g(x)|
 	
 
 
