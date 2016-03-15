@@ -477,7 +477,10 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Using Big-O, Big-Ω and Big-ϴ
 	* In Big-O, let f and G be functions from Real numbers to Real numbers where f(x) is O(g(x)) if there are constants C and k such that:
 	
-			|f(x)| ≤ C|g(x)|
+			|f(x)| ≤ C|g(x)| where x > k
+			C and k are the witnesses of Big-O
+
+
 	
 
 
