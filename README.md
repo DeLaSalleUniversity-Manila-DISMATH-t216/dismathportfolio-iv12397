@@ -500,6 +500,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		
 				x^2 + 2x + 1 is O(x^2)
 
+		* There is only one answer in Big-ϴ.
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
