@@ -474,7 +474,8 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 
 ## **Week 10:**
 * This week, we were introduced to growth of functions.
-1. Using Big-O, Big-Ω and Big-
+	- Using Big-O, Big-Ω and Big-ϴ
+	- 
 
 
 - **_"A smile can change a life."_**
