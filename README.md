@@ -491,16 +491,28 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	
 		* Example:
 		
-				x^2 + 2x + 1 is O(x^2)
-				x^2 + 2x + 1 is O(x)
+				x^2 + 2x + 1 is Ω(x^2)
+				x^2 + 2x + 1 is Ω(x)
 
 	* Lastly, in Big-ϴ, we are looking for both the lower and upper bound size of f(x).
 	
 		* Example:
 		
-				x^2 + 2x + 1 is O(x^2)
+				x^2 + 2x + 1 is ϴ(x^2)
 
 		* There is only one answer in Big-ϴ.
+
+* Next, Time Complexity in Algorithm, and Division and Modulo Operator
+	
+	* Time Complexity
+		* can be expressed in terms of the number of operations used by the algorithms.
+		* number of comparisons will be used as the measure of the time complexity.
+	
+		| Complexity | Terminology |
+		| :---: | :---: |
+		| ϴ(1) | constant complexity |
+		| ϴ(logn) | log complexity |
+		| ϴ(n) | linear complexity |
 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
