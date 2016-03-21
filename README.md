@@ -514,5 +514,13 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		| ϴ(logn) | log complexity |
 		| ϴ(n) | linear complexity |
 
+		* Time complexity of finding max comparison: 2n-1, ϴ(n)
+		* Time complexity of linear search: 2n+2, ϴ(n)
+	
+	* Division and Modulo
+	
+			* Example:
+				Let a = integer, d = positive integer
+				Unique integers
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
