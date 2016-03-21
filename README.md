@@ -521,6 +521,20 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	
 			* Example:
 				Let a = integer, d = positive integer
-				Unique integers
+				Unique integers Q and r
+					with 0<=r<d such that a=dQ+r
+				9 mod 2 = 1 (r)
+				9 div 2 = 4 (Q)
+				a=d*Q+r
+				a=2*4+1
+				a=9
+
+	* Last topic for quiz 2: Ceasar Cipher
+	
+			* How can you make your message secret?
+				Example:
+				LOVE = ORYH
+				(p+3) mod 26
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
