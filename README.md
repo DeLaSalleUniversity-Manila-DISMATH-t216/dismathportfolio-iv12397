@@ -541,6 +541,22 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * **HOLY WEEK**
 
 ## **Week 12:**
+* The Final Project Requirements:
+	* Objective
+		* To be able to design and implement an application involving a Discrete Mathematics concept using MIT App Inventor.
+	* Parts
+		* Individual Introduction
+		* Actual Application
+		* Written Report(IEEE Format)
+	* Criteria
+		* Novelty (New or Improvement)
+		* Difficulty
+		* Creativity (Innovative Ideas)
+		* Functionality
+		* Overall Impact (WOW Factor)
+	* Due on April 13,2016
 
+* We discussed about Graph Theory.
+	*
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
