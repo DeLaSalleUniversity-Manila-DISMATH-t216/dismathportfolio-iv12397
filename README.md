@@ -562,6 +562,12 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* a set composed of vertices and edges. (V,E)
 			* G={V,E}
 	* Application
-		*
+		* Networks
+		* Job Assignments
+	* Basic Terminology
+		* degree of a vertex in an undirected graph is the number of edges incident with it, except that the loop at a vertex contributes twice to the degree of that vertex.
+	* Handshaking Theorem
+		* Let G=(V,E) be an undirected graph with edges.
+		
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
