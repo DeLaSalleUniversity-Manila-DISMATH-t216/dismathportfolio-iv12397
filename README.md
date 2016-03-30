@@ -571,7 +571,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		
 				Then,
 					2e = ∑deg(v)
-				where v=V
+					where v=V
 
 		* For example, how many edges are there in a graph with 10 vertices each of the degree 6?
 		
@@ -579,6 +579,13 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 				2e = 60
 				e = 30 edges
 
-
+	* Subgraph of a graph
+		* G=(V,E) is a graph of H=(W,F), where W ⊆ V and F ⊆ E
+		* subgraph of H of G is a proper subgraph of G if H ≠ G
+	* Path
+		* sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph.
+	* Euler Circuits and Paths
+		* it is a simple path containing every edge of G.
+	
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
