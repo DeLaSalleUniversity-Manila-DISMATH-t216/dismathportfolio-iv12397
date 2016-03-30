@@ -1,5 +1,6 @@
 # dismathportfolio-iv12397
 dismathportfolio-iv12397 created by Classroom for GitHub
+- Irene Or, Dismath EL
 
 ## **Week 1:** 
 - I learned what was Discrete Mathematics all about, and the first lesson is all about logic and proofs.
