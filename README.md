@@ -557,6 +557,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Due on April 13,2016
 
 * We discussed about Graph Theory.
-	*
+	* Graph
+		* discrete structures consisting of vertices and edges that connect the vertices.
+		* a set composed of vertices and edges. (V,E)
+			* G={V,E}
+	* Application
+		*
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
