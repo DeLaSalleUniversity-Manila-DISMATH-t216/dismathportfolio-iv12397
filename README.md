@@ -569,5 +569,16 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Handshaking Theorem
 		* Let G=(V,E) be an undirected graph with edges.
 		
+				Then,
+					2e = ∑deg(v)
+				where v=V
+
+		* For example, how many edges are there in a graph with 10 vertices each of the degree 6?
+		
+				10 x 6 = 60
+				2e = 60
+				e = 30 edges
+
+
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
