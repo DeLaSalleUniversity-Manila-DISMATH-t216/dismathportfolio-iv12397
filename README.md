@@ -584,8 +584,27 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* subgraph of H of G is a proper subgraph of G if H ≠ G
 	* Path
 		* sequence of edges that begins at a vertex of a graph and travels from vertex to vertex along edges of the graph.
-	* Euler Circuits and Paths
-		* it is a simple path containing every edge of G.
+	* Euler Ciruit
+		* all nodes have even degrees 
+		* you can go back to where you started
+	* Euler Path
+		* only one way path
+		* exactly 2 nodes with odd degree
+	* Euler's Formula
+			
+				r=e-v+2
+			
+	* Hamilton Circuit
+		* circuit passes through every vertex exactly once.
+	* Hamilton Path
+		* path passes through every vertex exactly once.
+	* Matrices of Graphs
+	* Isomorphism of Graphs
+	* Planar Graph
+		* drawn in the plane without edges having to cross.
+	* Nonplanar Graph
+		* when everything is interconnected to one another
+	
 	
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
