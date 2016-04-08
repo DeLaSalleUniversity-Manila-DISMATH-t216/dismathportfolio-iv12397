@@ -626,6 +626,29 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* should not have a loop
 * Rooted Tree
 	* a tree in which one vertex has been designated
-	* 
+	* internal nodes
+		* parents
+	* leaves
+		* Children
+* m-ary tree
+	* m = 2, binary tree
+	* m = 5, 5-ary tree
+	* A full m-ary tree:
+		* n vertices has i=(n-1)/m internal and l=[(m-1)n+1]/m leaves
+		* i internal vertices has n=mi+1 vertices and l=(m-1)i+1
+		* l leaves has n=(ml-1)/(m-1) internal vertices
+* Ordered rooted tree
+	* rooted tree where the children of each internal vertex are ordered.
+* Tree traversal
+	* Universal Address Systems
+		* vertex v at level n, for n≥1, labeled x1,x2,....,xn
+* Preordered Traversal
+	* ordered rooted tree T
+	* visit root (subtrees from left to right)
+* Inordered Traversal
+	* visit leftmost subtree to the root to other subtrees from left to right
+* Postordered Traversal
+	* visit subtrees left to right then to root
+* 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
