@@ -610,7 +610,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* Elementary Subdivision
 		* removing an edge and reconnecting it with a node at the middle.
 		* same graph, unequal number of nodes and edges.
-* Graph Coloring
+* **Graph Coloring**
 	* minimal use of color
 	* assignment of a color to each vertex
 	* Chromatic number 
@@ -618,7 +618,7 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* best algorithms known for finding the chromatic number
 * Four Color Theorem
 	* only applies to planar graphs
-* Trees 
+* **Trees** 
 	* connected undirected graph with no simple circuits
 	* data structure with a set of linked nodes
 	* no circuit
@@ -649,6 +649,11 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 	* visit leftmost subtree to the root to other subtrees from left to right
 * Postordered Traversal
 	* visit subtrees left to right then to root
-* 
+* **Modeling Computation**
+	* Grammars
+		* generate the words of a language and determine whether a word is in a language
+		* important in constructing a sentence and compiling a program
+	* Finite-state machines
+	* Turing Machines
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
