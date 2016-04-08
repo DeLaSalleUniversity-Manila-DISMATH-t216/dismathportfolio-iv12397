@@ -613,6 +613,19 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 * Graph Coloring
 	* minimal use of color
 	* assignment of a color to each vertex
+	* Chromatic number 
+		* least colors needed for a coloring of graph
+	* best algorithms known for finding the chromatic number
+* Four Color Theorem
+	* only applies to planar graphs
+* Trees 
+	* connected undirected graph with no simple circuits
+	* data structure with a set of linked nodes
+	* no circuit
+	* cut connection to form a tree
+	* should not have a loop
+* Rooted Tree
+	* a tree in which one vertex has been designated
 	* 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
