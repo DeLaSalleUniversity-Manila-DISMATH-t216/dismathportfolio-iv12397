@@ -606,6 +606,13 @@ dismathportfolio-iv12397 created by Classroom for GitHub
 		* when everything is interconnected to one another
 	
 ## **Week 13:**
-
+* Homeomorphic Graphs
+	* Elementary Subdivision
+		* removing an edge and reconnecting it with a node at the middle.
+		* same graph, unequal number of nodes and edges.
+* Graph Coloring
+	* minimal use of color
+	* assignment of a color to each vertex
+	* 
 - **_"A smile can change a life."_**
 		- *Irene Victoria L. Or*, **DISMATH EL**
